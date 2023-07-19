@@ -1,2 +1,2 @@
 # FPGA
-Suggest the SPI transmitter
+First try of making FIFO
